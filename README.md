@@ -27,7 +27,7 @@ N<h1 align="center">Gaiiak Game<br />Configuration tool for the Citron Switch em
 
 <h2 align="center">Description</h2>
 <div align="center">
-  <p>Nous ne sommes pas affilié à Nintendo ou à l'éditeur de l'émulateur Citron. <br /> <br /> Notre utilitaire est indépendant, ne modifie pas les sources de l'émulateur et, bien que proposé gratuitement (pour l'instant), reste notre entière propriété.<br /> <br />Cet outil est actuellement capable de télécharger la dernière version de Citron, dans sa version CI ( comprendre version de développement), et la configurer complètement grace à un kit qui apporte configuration firmware etc .. <br /> <br />Nous allons lui ajouter au grès des versions de nouvelles fonctionnalités comme pressets, gestion de profils ( jeux ) et bientot joueurs, réseaux etc ..  <br /> <br />Ci-dessous le tuto en vidéo  si plus pratique pour vous.</p>
+  <p>Nous ne sommes pas affilié à Nintendo ou à l'éditeur de l'émulateur Citron. <br /> <br /> Notre utilitaire est indépendant, ne modifie pas les sources de l'émulateur et, bien que proposé gratuitement (pour l'instant), reste notre entière propriété.<br /> <br />Cet outil est actuellement capable de télécharger la dernière version de Citron, dans sa version CI ( comprendre version de développement), et la configurer complètement grace à un kit qui apporte configuration firmware etc .. <br /> <br />Nous allons lui ajouter au grès des versions de nouvelles fonctionnalités comme presets, gestion de profils ( jeux ) et bientot joueurs, réseaux etc ..  <br /> <br />Ci-dessous le tuto en vidéo  si plus pratique pour vous.</p>
 </div>
 
 <hr />
