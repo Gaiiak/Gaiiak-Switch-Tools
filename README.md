@@ -18,6 +18,9 @@ N<h1 align="center">Gaiiak Game<br />Configuration tool for the Citron Switch em
   <a href="https://www.youtube.com/channel/UCIwB4he5dZMuaaq2Skhiuxg" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a href="https://github.com/Gaiiak/Citron--Tools/releases" target="_blank">
+    <img alt="GitHub Downloads" src="https://img.shields.io/github/downloads/Gaiiak/Citron--Tools/total?style=for-the-badge" />
+  </a>
   <a href="https://discord.gg/FJbV8YeExU" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
