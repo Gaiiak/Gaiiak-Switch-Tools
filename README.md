@@ -35,9 +35,9 @@
      <li>✅ T&eacute;l&eacute;chargement de la derni&egrave;re version CI.</li>
      <li>✅ T&eacute;l&eacute;chargement et installation d'un kit (firmware, param&egrave;tres).</li>
      <li>✅ Gestion des profils et presets par jeu.</li>
-     <li>✅ S&eacute;lection des jeux avec visuels.</li>
-     <li>✅ Application de mods (textures HD, r&eacute;solution, ultrawide).</li>
-     <li>✅ Options jeu en r&eacute;seau </li>
+     <li>✅ S&eacute;lection et lancement des jeux avec visuels et description.</li>
+     <li>✨ Application de mods (textures HD, r&eacute;solution écran, autres).</li>
+     <li>✅ Options pour jouer en r&eacute;seau </li>
      <li>⏳ Gestion licence utilisateur </li>
   </ul>
   <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron. Les jeux, DLC, mises à jour, mod ne sont pas fournis.</p>
