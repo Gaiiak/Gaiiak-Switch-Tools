@@ -114,7 +114,7 @@
 <hr />
 
 <h2 align="center">Notes des mises a jour</h2>
-<div align="center" style="text-align: left; max-width: 980px; margin: 0 auto;">
+<div align="left" style="text-align: left; max-width: 980px; margin: 0 auto;">
  <ul>
   <p>
   <li>V1.1 Ajout des profils et presets de configuration. <br /> <br /> </li>
