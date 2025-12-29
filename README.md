@@ -40,7 +40,7 @@
      ✅ Options jeu en r&eacute;seau </li>
      ⏳ Gestion licence utilisateur </li>
   </ul>
-  <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron. les jeux, mise à jour , mod ne sont pas fournis.</p>
+  <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron. Les jeux, DLC, mises à jour, mod ne sont pas fournis.</p>
 </div>
 
 <hr />
