@@ -9,7 +9,7 @@
 <hr />
 
 <div align="center">
-  <p>Application Windows pour télécharger, configurer et optimiser rapidement les emulateurs Switch : Citron, Eden et Ryujinx. L'ancienne versio nest retirée et cette nouvelle monture sera disponible fin janvier 2026. Merci pour votre patience. </p>
+  <p>Application Windows pour télécharger, configurer et optimiser rapidement les emulateurs Switch : Citron, Eden et Ryujinx. L'ancienne version est retirée et la nouvelle monture sera disponible fin janvier 2026. Merci pour votre patience. </p>
 </div>
 
 <hr />
