@@ -1,4 +1,4 @@
-﻿<h1 align="center">Gaiiak Game<br />Configuration tool for Switch's emulator as Citron, Eden and Ryujinx</h1>
+﻿<h1 align="center">Gaiiak Game<br />Configuration tool for Switch emulators such as Citron, Eden, and Ryujinx.</h1>
 
 <hr />
 
