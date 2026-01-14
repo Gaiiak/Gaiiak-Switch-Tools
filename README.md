@@ -1,4 +1,4 @@
-﻿N<h1 align="center">Gaiiak Game<br />Configuration tool for the Citron Switch emulator</h1>
+﻿<h1 align="center">Gaiiak Game<br />Configuration tool for the Citron Switch emulator</h1>
 
 <hr />
 
