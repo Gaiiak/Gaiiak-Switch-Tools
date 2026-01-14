@@ -9,7 +9,7 @@
 <hr />
 
 <div align="center">
-  <p>Application Windows pour télécharger, de configurer et optimiser les emulateurs Switch : Citron, Eden et Ryujinx.</p>
+  <p>Application Windows pour télécharger, configurer et optimiser rapidement les emulateurs Switch : Citron, Eden et Ryujinx.</p>
 </div>
 
 <hr />
