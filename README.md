@@ -9,7 +9,7 @@
 <hr />
 
 <div align="center">
-  <p>Application Windows pour télécharger, configurer et optimiser rapidement les emulateurs Switch : Citron, Eden et Ryujinx.</p>
+  <p>Application Windows pour télécharger, configurer et optimiser rapidement les emulateurs Switch : Citron, Eden et Ryujinx. L'ancienne versio nest retirée et cette nouvelle monture sera disponible fin janvier 2026. Merci pour votre patience. </p>
 </div>
 
 <hr />
@@ -126,5 +126,7 @@
   <li>V1.5 Refonte de l'interface + ajout de la gestion des mod.
     <br /> <br /> </li>
   <li>V1.6 Ajout de la gestion des licences, une licence gratuite de 3 jours avec la release, les membres auront des licences offertes. </li>
+        <br /> <br /> </li>
+  <li>V2.0 Refonte de l'application pour l'étendre aux 3 émulateurs Citron, Eden et Ryujinx. La clé de licence sur ce github ne couvre que Citron dans sa version Free. </li>
   </p>
 </div>
