@@ -30,7 +30,7 @@
 
 <h2 align="center">Description</h2>
 <div align="left" style="text-align: justify; max-width: 980px; margin: 0 auto;">
-  <p> 📝 Gaiiak Game Switch Tools remplace dès à présent GG Citron Tools. Cette nouvelle monture propose maintenant la gestion des 3 émulateurs switch phares : Citron, Eden et Ryujinx.C'est  une application Windows qui centralise pour chaque émulateur l'installation, la configuration et la maintenance des &eacute;mulateurs  automatiquement. Elle gère également différents profils utilisateur, dont un mode enfant.  Vous trouverez ci-dessous toutes les fonctionnalités. A noter : pour fonctionner , l'application nécessite d'installer le runtime Microsoft disponible ici : https://dotnet.microsoft.com/fr-fr/download/dotnet/thank-you/sdk-10.0.101-windows-x64-installer</p>
+  <p> 📝 Gaiiak Game Switch Tools remplace dès à présent GG Citron Tools. Cette nouvelle monture propose maintenant la gestion des 3 émulateurs switch phares : Citron, Eden et Ryujinx.C'est  une application Windows qui centralise pour chaque émulateur l'installation, la configuration et la maintenance des &eacute;mulateurs  automatiquement. Elle gère également différents profils utilisateurs, dont un mode enfant pour les parents.  Vous trouverez ci-dessous toutes les fonctionnalités. A noter : pour fonctionner , l'application nécessite d'installer le runtime Microsoft disponible ici : https://dotnet.microsoft.com/fr-fr/download/dotnet/thank-you/sdk-10.0.101-windows-x64-installer</p>
   <ul>
      <li>✅ T&eacute;l&eacute;chargement de la derni&egrave;re version CI.</li>
      <li>✅ T&eacute;l&eacute;chargement et installation d'un kit (firmware, param&egrave;tres).</li>
