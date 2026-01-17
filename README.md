@@ -3,7 +3,7 @@
 <hr />
 
 <div align="center" style="text-align: center; max-width: 980px; margin: 0 auto;">
-  <img src="images/logo.jpg" alt="GaiiakGame Citron Tools logo" width="320" />
+  <img src="images/logo.jpeg" alt="GaiiakGame Switch Tools logo" width="320" />
 </div>
 
 <hr />
@@ -71,7 +71,7 @@
         <img src="images/Capture 2.png" alt="Capture 02" width="320" />
       </td>
       <td style="vertical-align: top; padding: 8px; text-align: left;">
-        <p><strong>Gestion des Profils de jeu & Presets</strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
+        <p><strong>Gestion des Profils des jeux </strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
         <a href="https://youtu.be/..." target="_blank">Lien YouTube</a>
       </td>
     </tr>
@@ -80,7 +80,7 @@
         <img src="images/Capture 3.png" alt="Capture 03" width="320" />
       </td>
       <td style="vertical-align: top; padding: 8px; text-align: left;">
-        <p><strong>Description du jeu en multilangue</strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
+        <p><strong>Description des jeux avec Informations type PEGI </strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
         <a href="https://youtu.be/..." target="_blank">Lien YouTube</a>
       </td>
     </tr>
@@ -89,7 +89,7 @@
         <img src="images/Capture 4.png" alt="Capture 04" width="320" />
       </td>
       <td style="vertical-align: top; padding: 8px; text-align: left;">
-        <p><strong>Gestion des mod</strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
+        <p><strong> </strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
         <a href="https://youtu.be/..." target="_blank">Lien YouTube</a>
       </td>
     </tr>
@@ -98,7 +98,7 @@
         <img src="images/Capture 5.png" alt="Capture 05" width="320" />
       </td>
       <td style="vertical-align: top; padding: 8px; text-align: left;">
-        <p><strong>Personnalisation des interfaces</strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
+        <p><strong>Gestion des profils utilisateurs et choix des jeux en catalogue</strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
         <a href="https://youtu.be/..." target="_blank">Lien YouTube</a>
       </td>
     </tr>
