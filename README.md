@@ -3,7 +3,7 @@
 <hr />
 
 <div align="center" style="text-align: center; max-width: 980px; margin: 0 auto;">
-  <img src="images/logo.jpg" alt="GaiiakGame Citron Tools logo" width="320" />
+  <img src="images/logo.jpg" alt="GaiiakGame Switch Tools logo" width="320" />
 </div>
 
 <hr />
