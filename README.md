@@ -1,4 +1,4 @@
-﻿<h1 align="center">Gaiiak Game<br />Configuration tool for Switch emulators such as Citron, Eden, and Ryujinx.</h1>
+<h1 align="center">Gaiiak Game<br />Configuration tool for Switch emulators such as Citron, Eden and Ryujinx.</h1>
 
 <hr />
 
@@ -9,7 +9,7 @@
 <hr />
 
 <div align="center">
-  <p>Application Windows pour télécharger, configurer et optimiser rapidement les emulateurs Switch : Citron, Eden et Ryujinx. L'ancienne version est retirée et la nouvelle monture sera disponible fin janvier 2026. Merci pour votre patience. </p>
+  <p>Application Windows pour télécharger, configurer les dernières versions des émulateurs Citron, Eden et Ryujinx, les optimiser et gérer en bibliothèque vos jeux  favoris customisés de mod et nouvelles textures par exemple. </p>
 </div>
 
 <hr />
@@ -129,6 +129,6 @@
     <br /> <br /> </li>
   <li>V1.6 Ajout de la gestion des licences, une licence gratuite de 3 jours avec la release, les membres auront des licences offertes. </li>
         <br /> <br /> </li>
-  <li>V2.0 Refonte de l'application pour l'étendre aux 3 émulateurs Citron, Eden et Ryujinx. Les clés de licence sur ce github  expirent le 20/01/2026 pour des licences plus longues, vous devez être abonné à la chaine pour accéder à notre Discord, lieu où nous diffusons tous les mois des licences de 30 jours ou plus gratuitement à nos membres. </li>
+  <li>V2.0 Refonte de l'application pour l'étendre aux 3 émulateurs Citron, Eden et Ryujinx. Les clés de licence sur ce github  expirent le 20/01/2026 pour des licences plus longues, vous devez être abonné à la chaine pour accéder à notre Discord, lieu où nous diffusons tous les mois des licences de 30 jours ou plus gratuitement à nos membres. </li> <br /> <br />
   </p>
 </div>
