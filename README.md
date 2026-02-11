@@ -129,6 +129,7 @@
     <br /> <br /> </li>
   <li>V1.6 Ajout de la gestion des licences, une licence gratuite de 3 jours avec la release, les membres auront des licences offertes. </li>
         <br /> <br /> </li>
-  <li>V2.0 Refonte de l'application pour l'étendre aux 3 émulateurs Citron, Eden et Ryujinx. Les clés de licence sur ce github  expirent le 20/02/2026 pour des licences plus longues, vous devez être abonné à la chaine pour accéder à notre Discord, lieu où nous diffusons tous les mois des licences de 30 jours ou plus gratuitement à nos membres. </li> <br /> <br />
+  <li>V2.0 Refonte de l'application pour l'étendre aux 3 émulateurs Citron, Eden et Ryujinx. Pour des licences plus longues, vous devez être abonné à la chaine pour accéder à notre Discord, lieu où nous diffusons tous les mois des licences de 30 jours ou plus gratuitement à nos membres. </li> <br /> <br />
+     <li>V2.2.1 Refonte de l'application pour l'étendre à tous les émulateurs Nintendo avec révision de la gestion des onglets et renformecement pour rester fluide sur de bon volumes de jeu. L'expiration des licences est indiquées sur les licences elles-memes et pour des licences plus longues, vous devez être abonné à la chaine pour accéder à notre Discord, lieu où nous diffusons tous les mois des licences de 30 jours ou plus gratuitement à nos membres. Attention le Git reste limité aux 3 emulateurs switch  </li> <br /> <br />
   </p>
 </div>
